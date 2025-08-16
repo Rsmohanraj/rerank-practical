@@ -1,6 +1,6 @@
-## Rerank 技术实战（示例项目）
+## Rerank 技术实战
 
-本项目依据 `rerank技术.txt` 复刻与整理，提供从 SentenceTransformers 快速上手，到在 LlamaIndex 中集成 Reranker（BCE 与 FlagEmbedding），以及 RankGPT（LLM 作为重排器）的完整示例；同时给出 CrossEncoder 微调脚本与 MTEB/C_MTEB 评测脚本。
+本项目依据提供从 SentenceTransformers 快速上手，到在 LlamaIndex 中集成 Reranker（BCE 与 FlagEmbedding），以及 RankGPT（LLM 作为重排器）的完整示例；同时给出 CrossEncoder 微调脚本与 MTEB/C_MTEB 评测脚本。
 
 ---
 
